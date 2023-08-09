@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "201062315931",
+    "firebase_url": "https://astana-token-tracker-default-rtdb.firebaseio.com",
+    "project_id": "astana-token-tracker",
+    "storage_bucket": "astana-token-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201062315931:android:796616d94fce938f0f133e",
+        "android_client_info": {
+          "package_name": "com.example.astana_token_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201062315931-gu27k4motqhku92rg4pflv3rod67s975.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NY6WAzfgXXP3wZYte5CqMsE1Txy5CIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201062315931-gu27k4motqhku92rg4pflv3rod67s975.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "201062315931-e0p675k0q4jlp4s6ej2h9ftbjdchjo9h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.astanaTokenTracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

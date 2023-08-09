@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>201062315931-e0p675k0q4jlp4s6ej2h9ftbjdchjo9h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.201062315931-e0p675k0q4jlp4s6ej2h9ftbjdchjo9h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDuAJWsF3Kl7Iz06i-sQcgjJu0GZiAIRpQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>201062315931</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.astanaTokenTracker</string>
+	<key>PROJECT_ID</key>
+	<string>astana-token-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>astana-token-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:201062315931:ios:5f37fcee4e8e02d10f133e</string>
+	<key>DATABASE_URL</key>
+	<string>https://astana-token-tracker-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
